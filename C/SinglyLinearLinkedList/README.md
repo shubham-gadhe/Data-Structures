@@ -28,7 +28,3 @@
 
 - **Time Complexity:** **O(n)**
 - **Auxiliary Space Complexity:** **O(1)**
-
-## Sample Output
-
-<img width="1086" height="570" alt="Output" src="https://github.com/user-attachments/assets/33b7c58f-c99b-44fe-a749-d9f866bf8430" />
